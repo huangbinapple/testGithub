@@ -11,6 +11,7 @@ def bar():
 def experimentalStaff():
     fancy1 = 2
     fancy2 = 'adfafsf'
+    fancy3 = 2
 
 if __name__ == '__main__':
     main()
