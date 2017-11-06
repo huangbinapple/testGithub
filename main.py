@@ -4,6 +4,9 @@ def main():
 def foo():
     pass
 
+def far():
+    pass
+
 def bar():
     var1 = 1
 
